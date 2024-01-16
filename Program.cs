@@ -5,7 +5,7 @@ public class Program
     private static void Main(string[] args)
     {
 
-        Console.Write("Welcome to the Dice Rolling Game!\n\nHow many dice rolls would you like to simulate?");
+        Console.Write("Welcome to the Dice Rolling Game!\n\nHow many dice rolls would you like to simulate?: ");
 
         string promptInput = Console.ReadLine();
 
